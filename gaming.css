@@ -124,7 +124,7 @@ ul {
 }
 .cat1{
     height: 32vh;
-    width: 55.1vw ;
+    width: 52.1vw ;
     background-color: rgb(12, 34, 230);
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
@@ -812,7 +812,7 @@ align-items: center;
      position: absolute;
      top: 64%;
       
-     transform: translate(60vw,-2vw); 
+     transform: translate(65vw,-2vw); 
 
     background-color: rgb(213, 62, 100);
     border-radius:60% ;
@@ -829,7 +829,7 @@ align-items: center;
      position: absolute; 
     top: 25vh;
     
-     transform: translate(72vw);   
+     transform: translate(79vw);   
     width: 4vw; /* Adjust the size of the overlay image */
     height: 6vh;
     background-color: rgb(40, 88, 244);
@@ -866,7 +866,7 @@ align-items: center;
     background-color: red;
 }
 .trend1{
-    width: 17.1vw;
+    width: 14.1vw;
     border-radius: 30px;
 }
 .cat{
